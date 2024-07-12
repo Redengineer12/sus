@@ -21,6 +21,10 @@ bf-pixel-opponent
 gf-tankmen
 tankman
 pico-speaker
+BB-BF
+BB-GF
+mitori
+Robert
 bf-holding-gf
 pico-player
 tankman-player
